@@ -10,6 +10,7 @@ namespace Rover
 
     //Peduzzi Samuele 
     class CMappa
+        juhgbgtb
     {
         //Attributi
         //Punto di partenza del rover 
