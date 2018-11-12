@@ -16,14 +16,15 @@ namespace Rover
         private Point pStart;
         //Vettori per la memorizzazione delle distanze
         private int[] distanzaDx, distanzaSx;
+        private int numEl;
         //Metodi
         public CMappa()
         {
             pStart = new Point(0, 0);
         }
-        public void add(int distanza)
+        public void add(int distanzaDx, int distanzaSx)
         {
-
+            
         }
 
     }
