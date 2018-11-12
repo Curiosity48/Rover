@@ -10,7 +10,6 @@ namespace Rover
 
     //Peduzzi Samuele 
     class CMappa
-        juhgbgtb
     {
         //Attributi
         //Punto di partenza del rover 
@@ -21,6 +20,10 @@ namespace Rover
         public CMappa()
         {
             pStart = new Point(0, 0);
+        }
+        public void add(int distanza)
+        {
+
         }
 
     }
